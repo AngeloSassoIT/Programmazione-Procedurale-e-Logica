@@ -2,7 +2,7 @@
 <foreignObject width="100" height="100">
     <div xmlns="http://www.w3.org/1999/xhtml">
         <ul>
-           <h1>Specifiche del problema</h1> 
+           <h1 style="color:green;">Specifiche del problema</h1> 
 <h4>Una lista con doppio collegamento è una struttura dati dinamica lineare in cui ogni 
 elemento ha un puntatore a quello successivo e un puntatore a quello precedente. 
 Assumendo che il contenuto informativo di ciascun elemento sia un numero intero, 
